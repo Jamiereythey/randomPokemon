@@ -1,4 +1,18 @@
-<style>
+body {
+  background-image: url("https://wallpapercave.com/wp/wp2860864.gif");
+
+  /* Add the blur effect */
+  /* filter: blur(8px); */
+
+  /* Full height */
+  height: 100%;
+
+  /* Center and scale the image nicely */
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .button {
   border: none;
   color: white;
@@ -22,5 +36,3 @@
   background-color: #4CAF50;
   color: white;
 }
-
-</style>
